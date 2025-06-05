@@ -46,7 +46,7 @@
 ## 📫 How to reach me
 - 💬 Ask me about Flutter, Firebase, or anything mobile
 - 📧 Email: 12yemom@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/esrom-basazinaw-65102a339)) 
+- 💼 [LinkedIn https://linkedin.com/in/esrom-basazinaw-65102a339)) 
 - phone: +2519-3404-62-79
 
 ---
