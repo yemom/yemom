@@ -1,66 +1,69 @@
-# 👋 Hello World, I'm Esrom Basazinaw
+# Esrom Basazinaw
+**Software Engineer Â· Mobile & Full-Stack Â· AAiT, Addis Ababa**
 
-> 🚀 A passionate mobile app developer & software engineering student at AAiT  
-> 💙 Flutter lover | 🔥 Firebase explorer | 🎨 UI/UX nerd | 🧠 Problem solver
-
----
-## 🧰 Tech Toolbox
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-
+> Building toward senior-level engineering through clean architecture, real projects, and deliberate practice.
 
 ---
 
-🧠 I'm currently diving deep into:
-- 📱 Mobile App Dev using Flutter & Firebase
-- 🎯 Dart programming and cross-platform UI
-- 🔐 Building secure login + dashboard systems
-- 🧠 AI and intelligent agent design (academic projects)
+## About
 
-- ## 🌱 What I'm Up To
-- 📱 Building clean & cross-platform Flutter apps
-- 🔍 Learning about AI & Machine Learning in depth
-- 🧠 Practicing DSA, Git mastery, and real-world project building
-- 💼 Growing my portfolio to go **from student to pro**
+I'm a software engineering student at **Addis Ababa Institute of Technology (AAiT)** with a focused track in mobile development, full-stack web engineering, and applied machine learning.
+
+I care about three things: code that is clean enough to maintain, UI that is precise enough to trust, and systems that are structured well enough to scale. My long-term target is a senior software engineering role â€” and I'm building toward it one shipped project at a time.
 
 ---
 
-🚀 Projects I'm proud of:
-- AAiT School Exam App 📚
-- Quiz Game with Firebase Integration 🧪
-- Admin Dashboard for Mobile Testing 🔐
+## Tech Stack
 
-- 🧠 “Learning never exhausts the mind, only bad WiFi does.” – Me probably 😎
-
----
-
-## 📫 How to reach me
-- 💬 Ask me about Flutter, Firebase, or anything mobile
-- 📧 Email: 12yemom@gmail.com
-- 💼 [LinkedIn https://linkedin.com/in/esrom-basazinaw-65102a339)) 
-- phone: +2519-3404-62-79
+| Domain | Tools |
+|---|---|
+| **Mobile** | Flutter Â· Dart Â· Firebase |
+| **Web** | HTML Â· CSS Â· JavaScript |
+| **Languages** | Python Â· C++ Â· Dart |
+| **ML / AI** | Scikit-learn Â· Pandas Â· NumPy |
+| **Tooling** | Git Â· VS Code Â· Figma |
 
 ---
 
-## 🔗 Let’s Connect
-- 📧 Email: [12yemom@gmail.com](mailto:12yemom@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/esrom-basazinaw-65102a339](https://linkedin.com/in/esrom-basazinaw-65102a339)
-- 💬 Telegram: [@yemom21](https://t.me/yemom21)
+## Selected Projects
+
+### NeuroParent â€” Cross-Platform Mobile App
+Flutter mobile app built pixel-accurately from a Figma spec. Multi-screen architecture covering Home, Events, Tips & Tricks, and Profile. Firebase-backed data layer with structured navigation.
+
+`Flutter` `Dart` `Firebase` `Figma`
 
 ---
 
-## ✨ Fun Fact
-> I call my AI assistant "Big Bro" and I’m on the road to becoming a 🔥 professional software engineer who builds beautiful, fast, and clean apps!
+### Personal Portfolio Website
+Engineering portfolio built to demonstrate technical depth and project history. Designed to grow alongside my role â€” not a static snapshot but an evolving record of shipped work.
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-_“Stay curious, stay building, and always commit with confidence 💪.”_
+### Email Spam Classifier â€” End-to-End ML Pipeline
+Full machine learning pipeline from raw data to deployed web application: preprocessing, feature engineering, model training, hyperparameter tuning, evaluation, and production deployment.
+
+`Python` `Scikit-learn` `Flask` `NLP`
+
+---
+
+## Current Focus
+
+- **Mobile architecture** â€” Clean Flutter structure, state management, and Figma-to-code fidelity
+- **Applied ML** â€” End-to-end pipelines and deploying models as usable web services
+- **DSA** â€” Consistent algorithmic practice for technical interview readiness
+- **Technical presence** â€” Active GitHub contribution graph and engineering-focused LinkedIn
+
+---
+
+## Contact
+
+- **Email:** [12yemom@gmail.com](mailto:12yemom@gmail.com)
+- **LinkedIn:** [linkedin.com/in/esrom-basazinaw-65102a339](https://linkedin.com/in/esrom-basazinaw-65102a339)
+- **Telegram:** [@yemom21](https://t.me/yemom21)
+- **GitHub:** [github.com/yemom](https://github.com/yemom)
+
+---
+
+*Open to internship and junior/mid-level engineering opportunities.*
