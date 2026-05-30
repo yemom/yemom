@@ -1,215 +1,175 @@
 Esrom Basazinaw
 
-Software Engineering Student | Flutter Developer | Full-Stack & AI Enthusiast
+Software Engineering Student | Flutter Developer | Full-Stack Developer | ML Enthusiast
 
-📍 Addis Ababa Institute of Technology (AAiT), Ethiopia
+📍 Addis Ababa, Ethiopia
 
-I'm a Software Engineering student at Addis Ababa Institute of Technology (AAiT) who enjoys turning ideas into real, usable applications.
+Software Engineering student at Addis Ababa Institute of Technology (AAiT) with hands-on experience building cross-platform mobile applications, full-stack systems, and machine learning solutions. Passionate about creating scalable, maintainable software using modern development practices and clean architecture principles.
 
-My journey started with curiosity about how software works, and over time that curiosity grew into a passion for building mobile applications, web systems, and machine learning projects. I enjoy solving problems, learning new technologies, and continuously improving the way I write and design software.
-
-Currently, my strongest area is Flutter development, where I focus on creating responsive, user-friendly, and scalable mobile applications. Alongside mobile development, I'm expanding my knowledge in full-stack web development, backend systems, software architecture, and applied machine learning.
-
-My goal is to become a highly skilled software engineer capable of designing and building complete software solutions—from planning and architecture to deployment and maintenance.
+My primary focus is Flutter development, backend integration, and software architecture. I enjoy transforming complex requirements into reliable, user-centered applications while continuously improving my engineering skills through real-world projects.
 
 ---
 
-Technical Skills
+Tech Stack
 
 Mobile Development
 
 - Flutter
 - Dart
 - Firebase
-- Firestore
 - Firebase Authentication
+- Cloud Firestore
+- Provider
+- Riverpod (Learning)
+- BLoC (Learning)
 
-Web Development
+Frontend Development
 
 - HTML5
 - CSS3
 - JavaScript
+- Responsive Web Design
+
+Backend & APIs
+
+- Spring Boot
+- REST APIs
+- Firebase Backend Services
+- JSON
+- JWT Authentication
 
 Programming Languages
 
 - Dart
 - Python
+- Java
 - C++
 
-Machine Learning & Data Science
+Databases
 
-- Scikit-learn
-- Pandas
-- NumPy
-- Natural Language Processing (NLP)
+- Firestore
+- PostgreSQL
+- SQLite
 
-Tools & Technologies
-
-- Git & GitHub
-- VS Code
-- Figma
-- Firebase Services
-
----
-
-Featured Projects
-
-NeuroParent – Cross-Platform Mobile Application
-
-A parenting support application developed using Flutter and Firebase based on a detailed Figma design.
-
-Key Features
-
-- Home, Events, Tips & Tricks, and Profile screens
-- Firebase Authentication
-- Firestore integration
-- Structured navigation and routing
-- Responsive and user-friendly UI
-
-What I Learned
-
-This project helped me improve my UI implementation skills, Firebase integration, and the ability to convert professional designs into fully functional applications.
-
----
-
-E-Commerce Mobile Application
-
-A complete shopping application built using Flutter and Firebase.
-
-Features
-
-- Product browsing and search
-- Category filtering
-- Shopping cart management
-- User authentication
-- Firestore database integration
-- Provider state management
-
-What I Learned
-
-I gained practical experience in state management, scalable application structure, and designing applications with real-world user workflows.
-
----
-
-Enterprise Flutter Application
-
-A larger-scale Flutter project focused on software architecture and maintainability.
-
-Features
-
-- Clean Architecture principles
-- REST API integration
-- Repository pattern implementation
-- Error handling and loading states
-- Feature-based project structure
-
-What I Learned
-
-This project strengthened my understanding of software architecture, code organization, and building applications that can scale as they grow.
-
----
-
-Personal Portfolio Website
-
-A fully responsive portfolio website built from scratch without templates.
-
-Features
-
-- Responsive design
-- Custom HTML, CSS, and JavaScript implementation
-- Project showcase section
-- Optimized layout and performance
-
-What I Learned
-
-I improved my frontend development skills and gained experience creating professional online portfolios.
-
----
-
-Email Spam Classifier – End-to-End Machine Learning Project
-
-A machine learning project that takes raw data through the complete ML lifecycle.
-
-Workflow
-
-1. Data Cleaning & Preprocessing
-2. TF-IDF Feature Engineering
-3. Model Training
-4. Hyperparameter Tuning
-5. Model Evaluation
-6. Deployment with Flask
-
-Technologies
+Machine Learning & AI
 
 - Python
 - Scikit-learn
 - Pandas
 - NumPy
-- Flask
 - NLP
+- TF-IDF
+- Model Evaluation & Deployment
 
-What I Learned
+Tools & Platforms
 
-I learned how machine learning systems move beyond notebooks into real-world deployment environments.
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Figma
+- Postman
+- Docker (Learning)
+
+---
+
+Featured Projects
+
+NeuroParent — Cross-Platform Mobile Application
+
+Flutter • Firebase • Firestore • Firebase Auth
+
+Developed a production-style parenting support application based on a detailed Figma design system.
+
+Key Contributions
+
+- Built responsive multi-screen user interfaces.
+- Integrated Firebase Authentication and Cloud Firestore.
+- Implemented structured navigation and reusable components.
+- Maintained pixel-perfect implementation from design specifications.
+
+---
+
+E-Commerce Mobile Application
+
+Flutter • Firebase • Provider • Firestore
+
+Designed and developed a complete shopping application with authentication and real-time data management.
+
+Highlights
+
+- Product catalog, search, and filtering.
+- Shopping cart and order management.
+- Firebase Authentication integration.
+- Scalable state management using Provider.
+- Clean separation of presentation, business, and data layers.
+
+---
+
+Enterprise Flutter Application
+
+Flutter • Clean Architecture • REST APIs • Firebase
+
+Developed an enterprise-oriented application focused on scalability and maintainability.
+
+Highlights
+
+- Feature-based project structure.
+- Repository pattern implementation.
+- REST API integration with robust error handling.
+- Modular architecture following clean architecture principles.
+- Reusable and testable code components.
+
+---
+
+Email Spam Classifier
+
+Python • Scikit-learn • NLP • Flask
+
+Built and deployed an end-to-end machine learning pipeline for spam email classification.
+
+Pipeline
+
+- Data preprocessing and cleaning.
+- TF-IDF feature extraction.
+- Model training and hyperparameter tuning.
+- Performance evaluation using Precision, Recall, and F1-Score.
+- Flask deployment for real-world usage.
 
 ---
 
 AAiT Exam App & Quiz Game
 
-Applications developed for students using Flutter and Firebase.
+Flutter • Firebase • Real-Time Database
 
-Features
+Developed educational applications supporting dynamic content delivery and real-time updates.
 
-- Question management
-- Real-time Firebase integration
-- Live score updates
-- Admin management functionality
+Highlights
 
-What I Learned
-
-This project taught me how to manage application state when working with real-time databases and live user interactions.
+- Real-time Firebase integration.
+- Live score tracking.
+- Dynamic question management.
+- Optimized state synchronization across sessions.
 
 ---
 
-Current Learning Focus
+Personal Portfolio Website
 
-Flutter Development
+HTML • CSS • JavaScript
 
-- Riverpod
-- BLoC
-- Clean Architecture
-- Scalable application design
-
-Machine Learning
-
-- Feature Engineering
-- Model Evaluation
-- Model Deployment
-
-Data Structures & Algorithms
-
-- Problem-solving practice
-- Algorithm optimization
-- Interview preparation
-
-Software Engineering
-
-- Clean Code
-- Git Workflows
-- Software Architecture
-- Team Collaboration
+Built a fully responsive portfolio website from scratch to showcase projects, technical skills, and development experience.
 
 ---
 
-My Approach to Software Development
+Current Focus
 
-I believe good software should be simple, maintainable, and useful.
-
-When building applications, I focus not only on making features work but also on writing code that is easy to understand, maintain, and extend. I enjoy learning how experienced engineers approach problems and applying those lessons to my own projects.
-
-Every project I build is an opportunity to improve my technical skills, learn better engineering practices, and create something that provides real value to users.
-
-Outside of software development, I enjoy reading, music, art, technology, and studying chess, which has helped me think more strategically and approach problem-solving from different perspectives.
+- Advanced Flutter Architecture
+- Riverpod & BLoC State Management
+- Spring Boot Backend Development
+- System Design Fundamentals
+- Machine Learning Deployment
+- Data Structures & Algorithms
+- Software Engineering Best Practices
 
 ---
 
@@ -225,4 +185,4 @@ Contact
 
 ---
 
-I'm always interested in learning, collaborating, and connecting with other developers. Whether it's Flutter development, software engineering, machine learning, or technology in general, I'd be happy to connect and share ideas.
+Open to internships, junior developer opportunities, open-source collaboration, and software engineering projects involving Flutter, Full-Stack Development, and Machine Learning.
