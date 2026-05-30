@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm የ፟-mom (Esrom Basazinaw)
+# 👋 Hello World, I'm Esrom Basazinaw
 
 > 🚀 A passionate mobile app developer & software engineering student at AAiT  
 > 💙 Flutter lover | 🔥 Firebase explorer | 🎨 UI/UX nerd | 🧠 Problem solver
