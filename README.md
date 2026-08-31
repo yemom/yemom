@@ -26,39 +26,39 @@ My primary focus is Flutter development, backend integration, software architect
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Mobile Development
+### Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-Provider • Riverpod • BLoC • Firebase Authentication • Cloud Firestore
+Provider - Riverpod - BLoC - Firebase Authentication - Cloud Firestore
 
 ---
 
-## Frontend Development
+### Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-Responsive Web Design • Component-Based UI • Modern Frontend Architecture
+Responsive Web Design - Component-Based UI - Modern Frontend Architecture
 
 ---
 
-## Backend Development
+### Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase,postman" />
 </p>
 
-REST APIs • JSON • JWT Authentication • API Integration • Backend Architecture
+REST APIs - JSON - JWT Authentication - API Integration - Backend Architecture
 
 ---
 
-## Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,python,java,cpp,js" />
@@ -66,27 +66,27 @@ REST APIs • JSON • JWT Authentication • API Integration • Backend Archit
 
 ---
 
-## Databases
+### Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
 </p>
 
-Cloud Firestore • Database Design • CRUD Operations • Data Modeling
+Cloud Firestore - Database Design - CRUD Operations - Data Modeling
 
 ---
 
-## Machine Learning & AI
+### Machine Learning & AI
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-Scikit-learn • Pandas • NumPy • NLP • TF-IDF • Model Evaluation • Model Deployment
+Scikit-learn - Pandas - NumPy - NLP - TF-IDF - Model Evaluation - Model Deployment
 
 ---
 
-## Tools & Workflow
+### Tools & Workflow
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,docker,linux" />
@@ -94,38 +94,38 @@ Scikit-learn • Pandas • NumPy • NLP • TF-IDF • Model Evaluation • Mo
 
 ---
 
-
-# Software Engineering
+## Software Engineering
 
 ```text
 Software Engineering
-        │
-        ├── Mobile Development
-        │      └── Flutter / Dart
-        │
-        ├── Web Development
-        │      ├── Frontend
-        │      └── Backend
-        │
-        ├── Databases
-        │      ├── PostgreSQL
-        │      ├── MySQL
-        │      ├── SQLite
-        │      └── Firestore
-        │
-        ├── Software Architecture
-        │      ├── Clean Architecture
-        │      ├── SOLID Principles
-        │      ├── Design Patterns
-        │      └── System Design
-        │
-        └── Artificial Intelligence
-               ├── Machine Learning
-               └── Natural Language Processing
+        |
+        |-- Mobile Development
+        |      \-- Flutter / Dart
+        |
+        |-- Web Development
+        |      |-- Frontend
+        |      \-- Backend
+        |
+        |-- Databases
+        |      |-- PostgreSQL
+        |      |-- MySQL
+        |      |-- SQLite
+        |      \-- Firestore
+        |
+        |-- Software Architecture
+        |      |-- Clean Architecture
+        |      |-- SOLID Principles
+        |      |-- Design Patterns
+        |      \-- System Design
+        |
+        \-- Artificial Intelligence
+               |-- Machine Learning
+               \-- Natural Language Processing
+```
 
 ---
 
-# Engineering Principles
+## Engineering Principles
 
 I believe good software is not only about making something work. It should also be maintainable, scalable, testable, secure, and understandable.
 
@@ -146,9 +146,9 @@ I'm continuously practicing:
 
 ---
 
-# Current Focus
+## Current Focus
 
-## Flutter Development
+### Flutter Development
 
 - Advanced Flutter Architecture
 - Riverpod
@@ -158,7 +158,7 @@ I'm continuously practicing:
 - Flutter Testing
 - Scalable Mobile Architecture
 
-## Backend Development
+### Backend Development
 
 - Spring Boot
 - REST API Development
@@ -167,7 +167,7 @@ I'm continuously practicing:
 - Backend Architecture
 - API Security
 
-## Software Architecture
+### Software Architecture
 
 - Clean Architecture
 - SOLID Principles
@@ -176,7 +176,7 @@ I'm continuously practicing:
 - Distributed Systems Fundamentals
 - Scalable Application Design
 
-## Machine Learning
+### Machine Learning
 
 - Machine Learning Fundamentals
 - Natural Language Processing
@@ -185,7 +185,7 @@ I'm continuously practicing:
 - Model Deployment
 - ML APIs
 
-## Computer Science
+### Computer Science
 
 - Data Structures
 - Algorithms
@@ -196,8 +196,9 @@ I'm continuously practicing:
 
 ---
 
-# What I Like Building
+## What I Like Building
 
+```text
 Mobile Applications
         +
 Full-Stack Systems
@@ -207,8 +208,9 @@ Backend Services
 Machine Learning
         +
 Scalable Architecture
-        ↓
+        v
 Real-World Software
+```
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" /> </p>
 
@@ -216,40 +218,44 @@ Real-World Software
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
-# Development Journey
+---
 
+## Development Journey
+
+```text
 Software Engineering
-        │
-        ├── Mobile Development
-        │      └── Flutter / Dart
-        │
-        ├── Web Development
-        │      ├── HTML / CSS / JavaScript
-        │      └── React
-        │
-        ├── Backend Development
-        │      ├── Spring Boot
-        │      ├── Node.js
-        │      └── REST APIs
-        │
-        ├── Database Engineering
-        │      ├── PostgreSQL
-        │      ├── MySQL
-        │      ├── SQLite
-        │      └── Firestore
-        │
-        ├── Software Architecture
-        │      ├── Clean Architecture
-        │      ├── Design Patterns
-        │      └── System Design
-        │
-        └── Artificial Intelligence
-               ├── Machine Learning
-               └── NLP
+        |
+        |-- Mobile Development
+        |      \-- Flutter / Dart
+        |
+        |-- Web Development
+        |      |-- HTML / CSS / JavaScript
+        |      \-- React
+        |
+        |-- Backend Development
+        |      |-- Spring Boot
+        |      |-- Node.js
+        |      \-- REST APIs
+        |
+        |-- Database Engineering
+        |      |-- PostgreSQL
+        |      |-- MySQL
+        |      |-- SQLite
+        |      \-- Firestore
+        |
+        |-- Software Architecture
+        |      |-- Clean Architecture
+        |      |-- Design Patterns
+        |      \-- System Design
+        |
+        \-- Artificial Intelligence
+               |-- Machine Learning
+               \-- NLP
+```
 
 ---
 
-# Open to Opportunities
+## Open to Opportunities
 
 I'm open to collaborating on:
 
@@ -267,7 +273,7 @@ If you're working on something interesting, feel free to reach out.
 
 ---
 
-# Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:12yemom@gmail.com">Email</a>
@@ -281,7 +287,7 @@ If you're working on something interesting, feel free to reach out.
 
 ---
 
-# Thanks for Visiting
+## Thanks for Visiting
 
 <p align="center">
 
