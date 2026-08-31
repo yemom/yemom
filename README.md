@@ -1,68 +1,64 @@
-#  Hey, I'm Esrom Basazinaw
+# Esrom Basazinaw
 
-###  Software Engineering Student |  Flutter Developer |  Full-Stack Developer |  ML Enthusiast
+### Software Engineering Student | Flutter Developer | Full-Stack Developer | ML Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yemom&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+Addis Ababa, Ethiopia
 
 ---
 
-##  About Me
+## About Me
 
-I'm a **Software Engineering student at Addis Ababa Institute of Technology (AAiT)** passionate about building reliable, scalable, and user-centered software.
+I'm a Software Engineering student at Addis Ababa Institute of Technology (AAiT) with hands-on experience building cross-platform mobile applications, full-stack systems, and machine learning solutions.
 
-My main focus is **Flutter development, backend engineering, software architecture, and machine learning**.
+I'm passionate about creating scalable, maintainable, and user-centered software using modern development practices and clean architecture principles.
 
-I enjoy turning complex requirements into practical applications and continuously improving my engineering skills through real-world projects.
+My primary focus is Flutter development, backend integration, software architecture, and machine learning. I enjoy transforming complex requirements into reliable applications while continuously improving my engineering skills through real-world projects.
 
--  Building cross-platform applications with **Flutter & Dart**
--  Developing full-stack applications and **REST APIs**
--  Learning and applying **Clean Architecture & scalable system design**
--  Working with **Firebase and cloud-based applications**
--  Exploring **Machine Learning & Natural Language Processing**
--  Strengthening my knowledge of **Data Structures & Algorithms**
--  Interested in writing clean, reusable, and testable code
--  Always learning new technologies and software engineering practices
+- Building cross-platform mobile applications with Flutter and Dart
+- Developing full-stack applications and REST APIs
+- Working with Firebase and cloud-based applications
+- Applying Clean Architecture and software design patterns
+- Exploring Machine Learning and Natural Language Processing
+- Building data-driven applications
+- Improving my knowledge of Data Structures and Algorithms
+- Writing clean, reusable, and maintainable code
+- Continuously learning modern software engineering practices
 
 ---
 
-##  Tech Stack
+# Tech Stack
 
-###  Mobile Development
+## Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-**Also working with:**  
 Provider • Riverpod • BLoC • Firebase Authentication • Cloud Firestore
 
 ---
 
-###  Frontend Development
+## Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-**Also working with:**  
 Responsive Web Design • Component-Based UI • Modern Frontend Architecture
 
 ---
 
-###  Backend & APIs
+## Backend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,firebase,postman" />
 </p>
 
-**Also working with:**  
 REST APIs • JSON • JWT Authentication • API Integration • Backend Architecture
 
 ---
 
-###  Programming Languages
+## Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,python,java,cpp,js" />
@@ -70,37 +66,27 @@ REST APIs • JSON • JWT Authentication • API Integration • Backend Archit
 
 ---
 
-###  Databases
+## Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
 </p>
 
-**Also working with:**  
 Cloud Firestore • Database Design • CRUD Operations • Data Modeling
 
 ---
 
-###  Machine Learning & AI
+## Machine Learning & AI
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**Technologies & Concepts:**
-
--  Python
--  Scikit-learn
--  Pandas
--  NumPy
--  Natural Language Processing (NLP)
--  TF-IDF
--  Model Evaluation
--  Machine Learning Model Deployment
+Scikit-learn • Pandas • NumPy • NLP • TF-IDF • Model Evaluation • Model Deployment
 
 ---
 
-###  Tools & Workflow
+## Tools & Workflow
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,docker,linux" />
@@ -108,80 +94,75 @@ Cloud Firestore • Database Design • CRUD Operations • Data Modeling
 
 ---
 
-#  Featured Projects
+# Featured Projects
 
-##  NeuroParent
+## NeuroParent
 
 ### Cross-Platform Parenting Support Application
 
-**Tech Stack:**  
- Flutter •  Firebase •  Cloud Firestore •  Firebase Authentication
+**Tech Stack:** Flutter • Firebase • Cloud Firestore • Firebase Authentication
 
 A production-style parenting support application developed from a detailed Figma design system.
 
-###  Key Contributions
+### Key Contributions
 
--  Built responsive multi-screen user interfaces
--  Integrated Firebase Authentication
--  Integrated Cloud Firestore
--  Implemented structured navigation
--  Created reusable UI components
--  Followed design specifications closely
--  Organized the application for maintainability
-
----
-
-##  E-Commerce Mobile Application
-
-**Tech Stack:**  
- Flutter •  Firebase •  Provider •  Firestore
-
-A complete mobile shopping application with authentication, product management, and real-time data.
-
-###  Features
-
--  Product catalog
--  Product search
--  Product filtering
--  Shopping cart
--  Order management
--  Firebase Authentication
--  Real-time Firestore data
--  Provider state management
--  Separation of presentation, business, and data layers
+- Built responsive multi-screen user interfaces
+- Integrated Firebase Authentication
+- Integrated Cloud Firestore
+- Implemented structured navigation
+- Created reusable UI components
+- Maintained a pixel-perfect implementation from design specifications
+- Organized the application for maintainability and scalability
 
 ---
 
-##  Enterprise Flutter Application
+## E-Commerce Mobile Application
 
-**Tech Stack:**  
- Flutter •  Clean Architecture •  REST APIs •  Firebase
+**Tech Stack:** Flutter • Firebase • Provider • Firestore
+
+A complete mobile shopping application with authentication, product management, and real-time data management.
+
+### Features
+
+- Product catalog
+- Product search
+- Product filtering
+- Shopping cart
+- Order management
+- Firebase Authentication
+- Real-time Firestore data
+- Provider state management
+- Separation of presentation, business, and data layers
+
+---
+
+## Enterprise Flutter Application
+
+**Tech Stack:** Flutter • Clean Architecture • REST APIs • Firebase
 
 An enterprise-oriented application designed with scalability, maintainability, and reusable architecture in mind.
 
-###  Highlights
+### Highlights
 
--  Feature-based project structure
--  Clean Architecture
--  Repository Pattern
--  REST API integration
--  Robust error handling
--  Modular application structure
--  Reusable and testable components
--  Designed for scalability
+- Feature-based project structure
+- Clean Architecture
+- Repository Pattern
+- REST API integration
+- Robust error handling
+- Modular application structure
+- Reusable and testable components
+- Scalable application architecture
 
 ---
 
 ## Email Spam Classifier
 
-**Tech Stack:**  
- Python •  Scikit-learn •  NLP •  Flask
+**Tech Stack:** Python • Scikit-learn • NLP • Flask
 
 An end-to-end machine learning application for detecting spam emails.
 
-###  Machine Learning Pipeline
+### Machine Learning Pipeline
 
-```text
 Raw Dataset
      ↓
 Data Cleaning
@@ -200,106 +181,247 @@ Flask API
      ↓
 Deployment
 
-## GitHub Statistics
+### Features
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Statistics"
-  />
-</p>
+- Data preprocessing and cleaning
+- Text feature extraction using TF-IDF
+- Machine learning model training
+- Hyperparameter tuning
+- Precision evaluation
+- Recall evaluation
+- F1-Score evaluation
+- Flask API development
+- Model deployment
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yemom&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
+---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
+## AAiT Exam App & Quiz Game
 
+**Tech Stack:** Flutter • Firebase • Real-Time Database
+
+Educational applications designed to support dynamic learning content and real-time interaction.
+
+### Features
+
+- Dynamic question management
+- Live score tracking
+- Firebase integration
+- Real-time data updates
+- State synchronization
+- Responsive mobile interface
+- Interactive quiz experience
+
+---
+
+## Personal Portfolio Website
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript
+
+A responsive personal portfolio website created to showcase projects, technical skills, experience, and my software engineering journey.
+
+### Highlights
+
+- Fully responsive design
+- Modern user interface
+- JavaScript interactions
+- Project showcase
+- Technical skills presentation
+- Developer-focused design
+
+---
+
+# Software Engineering
 
 Software Engineering
         │
-        ├──  Mobile Development
+        ├── Mobile Development
         │      └── Flutter / Dart
         │
-        ├──  Web Development
+        ├── Web Development
         │      ├── Frontend
         │      └── Backend
         │
-        ├──  Databases
+        ├── Databases
         │      ├── PostgreSQL
         │      ├── MySQL
         │      ├── SQLite
         │      └── Firestore
         │
-        ├──  Software Architecture
+        ├── Software Architecture
         │      ├── Clean Architecture
         │      ├── Design Patterns
         │      └── System Design
         │
-        └──  Artificial Intelligence
+        └── Artificial Intelligence
                ├── Machine Learning
                └── NLP
 
- Mobile Applications
+---
+
+# Engineering Principles
+
+I believe good software is not only about making something work. It should also be maintainable, scalable, testable, secure, and understandable.
+
+I'm continuously practicing:
+
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Repository Pattern
+- Separation of Concerns
+- Reusable Components
+- Testable Code
+- Scalable System Design
+- Secure Authentication
+- Performance Optimization
+- Clean Code
+- Modular Architecture
+
+---
+
+# Current Focus
+
+## Flutter Development
+
+- Advanced Flutter Architecture
+- Riverpod
+- BLoC
+- State Management
+- Performance Optimization
+- Flutter Testing
+- Scalable Mobile Architecture
+
+## Backend Development
+
+- Spring Boot
+- REST API Development
+- Authentication and Authorization
+- Database Design
+- Backend Architecture
+- API Security
+
+## Software Architecture
+
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- System Design
+- Distributed Systems Fundamentals
+- Scalable Application Design
+
+## Machine Learning
+
+- Machine Learning Fundamentals
+- Natural Language Processing
+- Feature Engineering
+- Model Evaluation
+- Model Deployment
+- ML APIs
+
+## Computer Science
+
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Database Systems
+- Operating Systems
+- Computer Networks
+
+---
+
+# What I Like Building
+
+Mobile Applications
         +
- Full-Stack Systems
+Full-Stack Systems
         +
- Backend Services
+Backend Services
         +
- Machine Learning
+Machine Learning
         +
- Scalable Architecture
+Scalable Architecture
         ↓
-      Real-World Software
+Real-World Software
 
- Connect With Me
-<p align="left"> <a href="mailto:12yemom@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/esrom-basazinaw-65102a339"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/yemom"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://t.me/yemom21"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /> </a> </p>
+---
 
- Thanks for Visiting!
+# GitHub Statistics
+
 <p align="center">
- Code.  Learn.  Build.  Improve.
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
+</p>
 
-Thanks for stopping by my GitHub profile!
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yemom&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-</p> ```
- The most important part for the screenshot style
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-Your Tech Stack will now render approximately like:
+---
 
- Mobile Development
+# Development Journey
 
- Flutter　 Dart　 Firebase
+Software Engineering
+        │
+        ├── Mobile Development
+        │      └── Flutter / Dart
+        │
+        ├── Web Development
+        │      ├── HTML / CSS / JavaScript
+        │      └── React
+        │
+        ├── Backend Development
+        │      ├── Spring Boot
+        │      ├── Node.js
+        │      └── REST APIs
+        │
+        ├── Database Engineering
+        │      ├── PostgreSQL
+        │      ├── MySQL
+        │      ├── SQLite
+        │      └── Firestore
+        │
+        ├── Software Architecture
+        │      ├── Clean Architecture
+        │      ├── Design Patterns
+        │      └── System Design
+        │
+        └── Artificial Intelligence
+               ├── Machine Learning
+               └── NLP
 
- Frontend Development
+---
 
-HTML　CSS　JavaScript　React
+# Open to Opportunities
 
- Backend & APIs
+I'm open to collaborating on:
 
-Spring　Node.js　Express　Firebase　Postman
+- Software Engineering Internships
+- Junior Developer Opportunities
+- Flutter Development Projects
+- Full-Stack Development
+- Backend Development
+- Machine Learning Projects
+- Open-Source Projects
+- Software Engineering Research
+- Interesting Technology Projects
 
- Databases
+If you're working on something interesting, feel free to reach out.
 
-PostgreSQL　MySQL　SQLite　Firebase
+---
 
- Machine Learning & AI
-
- Python
-
- Tools & Workflow
-
-Git　GitHub　VS Code　Android Studio　Figma　Postman　Docker　Linux
-
-
-## Connect With Me
+# Connect With Me
 
 <p align="left">
   <a href="mailto:12yemom@gmail.com">Email</a>
@@ -309,4 +431,16 @@ Git　GitHub　VS Code　Android Studio　Figma　Postman　Docker　Linux
   <a href="https://github.com/yemom">GitHub</a>
   &nbsp; | &nbsp;
   <a href="https://t.me/yemom21">Telegram</a>
+</p>
+
+---
+
+# Thanks for Visiting
+
+<p align="center">
+
+Code. Learn. Build. Improve.
+
+Thanks for stopping by my GitHub profile.
+
 </p>
