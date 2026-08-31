@@ -200,8 +200,28 @@ Flask API
      ↓
 Deployment
 
- GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yemom&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+## GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Statistics"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=yemom&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+  />
+</p>
 
 
 Software Engineering
@@ -270,10 +290,23 @@ Spring　Node.js　Express　Firebase　Postman
 
 PostgreSQL　MySQL　SQLite　Firebase
 
-🤖 Machine Learning & AI
+ Machine Learning & AI
 
-🐍 Python
+ Python
 
-🧰 Tools & Workflow
+ Tools & Workflow
 
 Git　GitHub　VS Code　Android Studio　Figma　Postman　Docker　Linux
+
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:12yemom@gmail.com">Email</a>
+  &nbsp; | &nbsp;
+  <a href="https://linkedin.com/in/esrom-basazinaw-65102a339">LinkedIn</a>
+  &nbsp; | &nbsp;
+  <a href="https://github.com/yemom">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="https://t.me/yemom21">Telegram</a>
+</p>
