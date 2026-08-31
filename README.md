@@ -210,28 +210,11 @@ Scalable Architecture
         ↓
 Real-World Software
 
-## GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" /> </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=yemom&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yemom&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yemom&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
 
 # Development Journey
 
