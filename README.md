@@ -97,6 +97,7 @@ Scikit-learn • Pandas • NumPy • NLP • TF-IDF • Model Evaluation • Mo
 
 # Software Engineering
 
+```text
 Software Engineering
         │
         ├── Mobile Development
@@ -114,12 +115,13 @@ Software Engineering
         │
         ├── Software Architecture
         │      ├── Clean Architecture
+        │      ├── SOLID Principles
         │      ├── Design Patterns
         │      └── System Design
         │
         └── Artificial Intelligence
                ├── Machine Learning
-               └── NLP
+               └── Natural Language Processing
 
 ---
 
@@ -208,9 +210,7 @@ Scalable Architecture
         ↓
 Real-World Software
 
----
-
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
@@ -232,8 +232,6 @@ Real-World Software
     alt="Top Languages"
   />
 </p>
-
----
 
 # Development Journey
 
