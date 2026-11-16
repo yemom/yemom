@@ -1,6 +1,6 @@
-Hi, I'm Esrom Basazinaw
+## Hi, I'm Esrom Basazinaw
 
-Full-Stack Developer | Backend Engineer | Flutter Developer
+### Full-Stack Developer | Backend Engineer | Flutter Developer
 
 I enjoy turning ideas and real-world problems into software that people can actually use. Most of my work revolves around building backend systems, web applications, and mobile experiences that are practical, reliable, and easy to work with.
 
