@@ -1,28 +1,26 @@
-# Esrom Basazinaw
+Hi, I'm Esrom Basazinaw
 
-### Software Engineering Student | Flutter Developer | Full-Stack Developer | ML Enthusiast
+Full-Stack Developer | Backend Engineer | Flutter Developer
 
-Addis Ababa, Ethiopia
+I enjoy turning ideas and real-world problems into software that people can actually use. Most of my work revolves around building backend systems, web applications, and mobile experiences that are practical, reliable, and easy to work with.
 
----
+I like understanding how things work behind the scenes—from designing databases and building APIs to connecting frontend applications and managing application security. I also enjoy the process of improving an existing system, finding better solutions, and learning from the challenges that come with building real applications.
 
-## About Me
+My main interests are backend engineering, full-stack development, mobile applications, and the practical use of AI in software.
 
-I'm a Software Engineering student at Addis Ababa Institute of Technology (AAiT) with hands-on experience building cross-platform mobile applications, full-stack systems, and machine learning solutions.
+Some areas I work with include:
 
-I'm passionate about creating scalable, maintainable, and user-centered software using modern development practices and clean architecture principles.
+Building web applications using Java, Spring Boot, Next.js, React, and TypeScript.
 
-My primary focus is Flutter development, backend integration, software architecture, and machine learning. I enjoy transforming complex requirements into reliable applications while continuously improving my engineering skills through real-world projects.
+Designing and developing REST APIs and database-driven applications.
 
-- Building cross-platform mobile applications with Flutter and Dart
-- Developing full-stack applications and REST APIs
-- Working with Firebase and cloud-based applications
-- Applying Clean Architecture and software design patterns
-- Exploring Machine Learning and Natural Language Processing
-- Building data-driven applications
-- Improving my knowledge of Data Structures and Algorithms
-- Writing clean, reusable, and maintainable code
-- Continuously learning modern software engineering practices
+Creating cross-platform mobile applications with Flutter and Dart.
+
+Implementing authentication, authorization, and role-based access control.
+
+Integrating AI capabilities into applications to support useful features.
+
+Improving application architecture, code quality, testing, and maintainability.
 
 ---
 
